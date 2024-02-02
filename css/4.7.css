@@ -1,0 +1,13 @@
+.header {
+    border: 1px solid black; 
+    background-color: lightblue; 
+}
+.column {
+    float: left; 
+    width: 50%; 
+    border: 1px solid black; 
+    background-color: lightgreen; 
+}
+.clear {
+    clear: both; 
+}
